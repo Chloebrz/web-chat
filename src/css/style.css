@@ -1,0 +1,52 @@
+#content
+{
+    width: 900px;
+    margin: auto;
+}
+
+h1 {
+    margin-top: 50px;
+    text-align: center;
+}
+
+h2 {
+    color: #A91101;
+    text-align: center;
+}
+
+h3 {
+    color: #A91101;
+    text-align: center;
+}
+
+em {
+    font-style: italic;
+    font-weight: bold;
+    color: #A91101;
+}
+
+.chatForm {
+    text-align: center;
+    padding: 50px 0px;
+}
+
+.messageList {
+    display: inline-block;
+    width: 680px;
+    padding: 10px 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    float: right;
+}
+
+.usersList {
+    width: 150px;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 5px;
+    float: left;
+}
+
+.date {
+    color: #A9A9A9;
+}
