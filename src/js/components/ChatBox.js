@@ -72,7 +72,7 @@ var ChatBox = React.createClass({
     render: function() {
         
         return (
-            <div className="messagelist">
+            <div className="chatBox">
                 <h1>Super Chat</h1>
                 <h3>Using socket.io and react.js</h3>
                 
